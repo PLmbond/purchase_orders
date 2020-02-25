@@ -2,5 +2,7 @@
   "current git repository": "",
   "git repositories": [
     ""
-  ]
+  ],
+  "app start": "app.js",
+  "routes": {}
 }
